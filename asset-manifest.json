@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculatrice_react.git/static/css/main.1bb83d18.css",
+    "main.js": "/calculatrice_react.git/static/js/main.cf3e2229.js",
+    "static/js/787.28cb0dcd.chunk.js": "/calculatrice_react.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/calculatrice_react.git/index.html",
+    "main.1bb83d18.css.map": "/calculatrice_react.git/static/css/main.1bb83d18.css.map",
+    "main.cf3e2229.js.map": "/calculatrice_react.git/static/js/main.cf3e2229.js.map",
+    "787.28cb0dcd.chunk.js.map": "/calculatrice_react.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb83d18.css",
+    "static/js/main.cf3e2229.js"
+  ]
+}
